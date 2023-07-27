@@ -1,5 +1,25 @@
 # 链接预览功能代码示例 - NodeJS
 
+## 目录说明
+```
+├── api.js                        // HTTP API
+├── callback_handlers             // 响应各种回调的handler
+│   ├── act.js                    // 用户点击卡片按钮进行交互时触发
+│   ├── del.js                    // 用户撤回消息时触发
+│   ├── get.js                    // 用户查看消息时触发
+│   ├── head.js                   // 用户在消息输入框输入 URL 时触发
+│   └── new.js                    // 用户发送消息后触发
+├── common.js                     // 通用方法，如签名计算，解密等
+├── config.js                     // 配置文件
+├── interfaces.ts
+├── lark_sdk.js                   // 对开放平台一些方法的封装
+├── package.json
+├── parser                        // 数据爬取器
+│   └── zh_parser.js              // 知乎某图书页面的信息获取示例
+└── router.js                     // 路由器，识别协议类型，调用对应 handler
+```
+注：仅做演示使用，请遵守网站 robots 协议
+
 ## 先看最终的效果
 ![前后效果对比](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-161723.png)
 
