@@ -41,7 +41,7 @@
 4. 执行 `node api.js`
 ![run](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-162757.png)
 5. 使用 nginx 设置反向代理，设置域名等，让站点可以被公网访问
-![nginx](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/20230727-163018.jpeg)
+![nginx](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-171207.png)
 6. 当在 IM 中发送匹配的 URL 时，就会收到对应的事件推送
 ![](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-163950.png)
 ![](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-164033.png)
