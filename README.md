@@ -45,5 +45,5 @@
 6. 当在 IM 中发送匹配的 URL 时，就会收到对应的事件推送
 ![](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-163950.png)
 ![](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-164033.png)
-![show](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-164049.png)
+![show](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-1640491.png)
 ![](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-163344.png)
