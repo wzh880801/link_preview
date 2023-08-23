@@ -50,6 +50,7 @@
 ![](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-163950.png)
 ![](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-164033.png)
 ![show](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-1640491.png)
+![](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230823-110802.png)
 ![](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-163344.png)
 
 ## 链接预览流程说明
