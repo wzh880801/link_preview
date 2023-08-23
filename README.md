@@ -31,6 +31,10 @@
 3. 设计如下卡片
 ![](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-163427.png)
 ![](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230727-163555.png)
+![](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230823-110306.png)
+![](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230823-110250.png)
+![](https://galaxy-imgs.oss-cn-beijing.aliyuncs.com/screenshot-20230823-110234.png)
+
 
 ## 部署代码
 1. fork 代码到本地

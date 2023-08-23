@@ -36,7 +36,7 @@ module.exports = async function (params) {
                 expired_at: 0,
                 preview_card: {
                     card_id: 'AAqqb0mgN8pDe',
-                    version_name: '1.0.1',
+                    version_name: '1.0.4',
                     card_url: {
                         url: params.url
                     },
@@ -47,6 +47,33 @@ module.exports = async function (params) {
                         user_desc: data.user_desc,
                         book_img: await lark.upload_img(data.img_url),
                         user_img: await lark.upload_img(data.user_avatar)
+                    },
+                    actions: {
+                        cmd_btn: {
+                            method: 3,
+                            url: '',
+                            command: {
+                                action_payload: JSON.stringify({ book_url: params.url, book_name: data.book_name })
+                            }
+                        },
+                        open_url_btn: {
+                            method: 4,
+                            url: '',
+                            open_url: {
+                                open_url: {
+                                    url: 'https://open.feishu.cn'
+                                }
+                            }
+                        },
+                        toast_btn: {
+                            method: 6,
+                            url: '',
+                            show_toast: {
+                                type: 1,
+                                content: '操作成功',
+                                duration: 2000
+                            }
+                        }
                     }
                 }
             }
